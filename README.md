@@ -14,7 +14,7 @@ Screenshots of the Project:
 <img width="960" height="540" alt="Screenshot 2026-07-26 153016" src="https://github.com/user-attachments/assets/a8022d50-64ac-4e41-8df5-ce8a711a36ab" />
 
 **2. Login Page**
-<img width="960" height="504" alt="Screenshot 2026-07-25 093221" src="https://github.com/user-attachments/assets/09ceb6b7-ff96-4a79-b3ce-bd4441c0767d" />
+<img width="800" height="504" alt="Screenshot 2026-07-25 093221" src="https://github.com/user-attachments/assets/09ceb6b7-ff96-4a79-b3ce-bd4441c0767d" />
 
 **3. Health Record Dashboard**
 <img width="960" height="540" alt="Screenshot 2026-07-25 092520" src="https://github.com/user-attachments/assets/7e2c0242-f87a-4f77-af98-3b7798ab5044" />
