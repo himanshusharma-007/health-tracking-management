@@ -20,3 +20,6 @@ Screenshots of the Project:
 ![Health Record Dashboard View](./assets/Screenshot%202026-07-25%20092520.png)
 
 ![Health Record Dashboard View](./assets/Screenshot%202026-07-26%20155152.png)
+
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/50d0c5d9-0685-4805-85b9-3c0bd1da81d1" />
+
